@@ -1,0 +1,31 @@
+body {
+    background-image: url("assets/clouds.jpg");
+    background-color: #cccccc;
+}
+
+#front-page {
+    background-image: url("assets/clouds.jpg");
+    width: 100%;
+    height: 1000px;
+
+}
+
+
+.box1 {
+  height: 350px;
+  background-color: lightblue;
+  border: solid 5px navy;
+  border-radius: 3%;
+}
+
+
+#planet {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+
+#divider {
+  height: 100px;
+}
